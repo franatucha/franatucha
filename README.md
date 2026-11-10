@@ -1,23 +1,8 @@
 <h1 align="center">Hi, I'm Francisco 👋</h1>
 
 <p align="center">
-  <b>I turn messy, manual work into software people actually use.</b><br/>
-  Order portals for wholesalers, clinical records for doctors, bots that run a group chat. Usually with an LLM somewhere in the loop.
+  <b>I turn messy, manual work into software people actually use.</b>
 </p>
-
-<p align="center">
-  🇦🇷 Argentina · Native Spanish, fluent English
-</p>
-
----
-
-### What I build
-
-I start from the problem, not the stack: who is doing what by hand, what it costs them, and what's the smallest thing that removes it. Then I ship it, watch people use it, and iterate.
-
-- **Business tools.** Replacing WhatsApp-and-spreadsheet workflows with real products: catalogs, orders, account statements, PDFs.
-- **Automation.** Scheduled jobs, scrapers, and notifications that run unattended on Railway.
-- **Applied AI.** LLMs where they earn their place: reading photos of tickets, answering questions about records, giving bots a personality. Privacy and guardrails come first.
 
 ---
 
@@ -62,19 +47,4 @@ Run several WhatsApp bots from one process and one session. Each bot is a plugin
 </tr>
 </table>
 
----
-
-### Toolbox
-
-**Daily:** TypeScript · Next.js · React · Node.js · PostgreSQL · Prisma / Drizzle · Tailwind · OpenAI API
-**Shipping:** Railway · Vercel · GitHub Actions · Playwright
-**Also:** NestJS · Baileys (WhatsApp) · Jira API
-
----
-
-### Other things I've automated
-
-- A delivery dashboard that pulls project status straight from Jira
-- A collaborative platform for families to document their history together
-
-<p align="center"><sub>Most client work is private. The repos above are open rebuilds of real projects, with fictional data.</sub></p>
+<p align="center"><sub>Most client work is private. These repos are open rebuilds of real projects, with fictional data.</sub></p>
