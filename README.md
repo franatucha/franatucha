@@ -30,7 +30,7 @@ WHO growth charts that do the math properly: LMS z-scores, corrected age for pre
 <tr>
 <td width="50%" valign="top">
 
-#### 📦 B2B Order Portal <sub>· coming soon</sub>
+#### 📦 B2B Order Portal
 A wholesale ordering platform, modeled on one I built for a real distributor. Clients browse the catalog, place orders, and check their account balance. The back office manages pricing, discounts, order status, and generates PDFs. Sign-in is by magic link.
 
 `Next.js` `Prisma` `NextAuth` `shadcn/ui`
@@ -38,7 +38,7 @@ A wholesale ordering platform, modeled on one I built for a real distributor. Cl
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 WhatsApp Bot Kit <sub>· coming soon</sub>
+#### 🤖 WhatsApp Bot Kit
 Run several WhatsApp bots from one process and one session. Each bot is a plugin with its own crons, commands, and LLM persona. Includes a dry-run mode that never sends a message. It started as a bot that runs my friends' lottery pool.
 
 `Node` `Baileys` `OpenAI` `Railway`
