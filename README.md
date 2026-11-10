@@ -35,10 +35,10 @@ A CLI and GitHub Action that audits AI-generated codebases for the mistakes vibe
 </td>
 <td width="50%" valign="top">
 
-#### 🩺 Pediatric Chart <sub>· coming soon</sub>
-A pediatric medical record built for a single doctor's practice. It computes real WHO growth percentiles and curves, tracks medication with an append-only audit trail, and includes an assistant you can *ask* about a patient's history. Patient data is pseudonymized before it reaches the model.
+#### 🩺 [Pediatric Chart](https://github.com/franatucha/pediatric-chart)
+WHO growth charts that do the math properly: LMS z-scores, corrected age for preterm babies, WHO classifications and alerts when a child drops across percentile lines. Includes an assistant you can *ask* about a patient's growth, with a panel that shows exactly what the model sees. Patient data is pseudonymized before it reaches the model.
 
-`Next.js` `PostgreSQL` `Drizzle` `OpenAI` · 160+ tests
+`Next.js` `TypeScript` `Recharts` `Claude` · tested against WHO tables
 
 </td>
 </tr>
